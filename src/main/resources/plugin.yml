@@ -1,0 +1,29 @@
+name: Fire
+version: 1.0
+main: com.orangecoder.fire.Fire
+description: Fireball Fight Plugin like Minemen Club
+authors:
+  - OrangeCoder0
+commands:
+  fireballwars:
+    description: Main command for Fireball Fight
+    usage: /fireballwars <subcommand>
+  ffight:
+    description: Alias for fireballwars
+    usage: /ffight <subcommand>
+  gc:
+    description: Send a message in your game
+    usage: /gc <message>
+  gamechat:
+    description: Alias for gc
+    usage: /gamechat <message>
+permissions:
+  fireballwars.admin:
+    description: Admin permission for Fireball Fight
+    default: op
+  fireballwars.play:
+    description: Permission to play Fireball Fight
+    default: true
+  fireballwars.chat:
+    description: Permission to use game chat
+    default: true

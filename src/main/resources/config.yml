@@ -1,0 +1,44 @@
+# Fireball Wars Configuration
+
+# Game Settings
+game:
+  countdown-seconds: 10
+  max-game-duration-seconds: 600
+  player-min: 2
+  player-max: 2
+  
+  # Kit Settings
+  kit:
+    armor:
+      helmet: DIAMOND_HELMET
+      chestplate: DIAMOND_CHESTPLATE
+      leggings: DIAMOND_LEGGINGS
+      boots: DIAMOND_BOOTS
+    items:
+      fireball: FIRE_CHARGE
+      fireball-amount: 64
+      sword: DIAMOND_SWORD
+      apple: GOLDEN_APPLE
+      apple-amount: 3
+      snowball: SNOWBALL
+      snowball-amount: 16
+
+# Arena Settings
+arenas:
+  # Arenas will be auto-saved here after creation
+
+# Messages
+messages:
+  game-started: "§a✓ Game Started! Use your fireballs to win!"
+  player-eliminated: "§c{player} was eliminated!"
+  game-won: "§a§l⭐ {player} won the game!"
+  not-in-game: "§c✗ You are not in a game!"
+  already-in-game: "§c✗ You are already in a game!"
+  game-full: "§c✗ Game is full!"
+  waiting-for-players: "§eWaiting for players to join..."
+  game-starting: "§e⏱ Game starting in {seconds} seconds!"
+
+# Permissions
+permissions:
+  admin: fireballwars.admin
+  play: fireballwars.play

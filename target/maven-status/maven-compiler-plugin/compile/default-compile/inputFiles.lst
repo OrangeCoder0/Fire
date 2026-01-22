@@ -1,0 +1,17 @@
+/workspaces/Fire/src/main/java/com/orangecoder/fire/Fire.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/chat/ChatManager.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/commands/ChatCommand.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/commands/FireballCommand.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/game/Arena.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/game/Game.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/gamemodes/BowGamemode.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/gamemodes/ClassicPvPGamemode.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/gamemodes/FireballGamemode.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/gamemodes/Gamemode.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/kits/Kit.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/listeners/GameListener.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/listeners/PlayerListener.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/managers/ArenaManager.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/managers/GameManager.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/managers/GamemodeManager.java
+/workspaces/Fire/src/main/java/com/orangecoder/fire/utils/GameUtils.java
